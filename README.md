@@ -1,1 +1,1 @@
-!(Capture.png)
+![Capture](Capture.png)
